@@ -43,8 +43,6 @@ This dashboard is a single page report with four key indicators.
 Viewer can filter the dashbard between participant's country of origin using tree map chart in the dashboard.
 
 ![alt text](<filter treechart.png>)
-- Page 1: KPI cards, bar chart showing X, etc.
-- Page 2: Trend line of Y over time, filters for Z, etc.
 
 Finally three different charts showing participant's programming language rolewise, Avg current salary for each role and avg salaruy based on gender.
 ![alt text](daashboardOverview.png)
